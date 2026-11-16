@@ -1,0 +1,15 @@
+{
+  "name": "English Quest",
+  "short_name": "English Quest",
+  "description": "10th Grade Unit 1 — School Life & Education. Learn English with 6 mini games.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F6F7FC",
+  "theme_color": "#6D5DFC",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
